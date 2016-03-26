@@ -44,7 +44,7 @@ h4{
 }
 
 a {
-  color: #c52d2f;
+  color:#3DD1C5;
   -webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #d43133;
+  color: #3DD1C5;
 }
 
 hr {
@@ -63,7 +63,7 @@ hr {
 
 .btn-primary {
   padding: 8px 20px;
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
   border-radius: 4px;
   border:none;
@@ -73,7 +73,7 @@ hr {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: #c52d2f;
+  background: #3DD1C5;
   outline: none;
   box-shadow: none;
 } 
@@ -223,7 +223,7 @@ ul.social-share li a {
 }
 
 ul.social-share li a:hover {
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
 }
 
@@ -287,13 +287,13 @@ width: 200px;
   padding: 5px 12px;
   margin: 0;
   border-radius: 3px;
-  color: #fff;
+  color: #737373;
   line-height: 24px;
   display: inline-block;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #c52d2f;
+	background-color: #3DD1C5;
   color: #fff;
 }
 
@@ -313,7 +313,7 @@ width: 200px;
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #c52d2f;
+  background-color: #3DD1C5;
   color: #fff;
 }
 
@@ -343,7 +343,7 @@ width: 200px;
 .navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
 .navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
 .navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
-  background-color: #c52d2f;
+  background-color: #3DD1C5;
   color: #fff;
 }
 
@@ -390,7 +390,7 @@ width: 200px;
 
 #main-slider .carousel .btn-slide {
   padding: 8px 20px;
-  background: #c52d2f;
+  background:#3DD1C5;
   color: #fff;
   border-radius: 4px;
   margin-top: 25px;
@@ -438,7 +438,7 @@ width: 200px;
 #main-slider .next {
   position: absolute;
   top: 50%;
-  background-color: #c52d2f;
+  background-color: #3DD1C5;
   color: #fff;
   display: inline-block;
   margin-top: -25px;
@@ -487,9 +487,9 @@ width: 200px;
 #main-slider .carousel-indicators .active{
   width: 20px;
   height: 20px;
-  background-color: #c52d2f;
+  background-color: #3DD1C5;
    margin: 0 15px 0 0;
-   border: 1px solid #c52d2f;
+   border: 1px solid #3DD1C5;
    position: relative;
 }
 
@@ -499,8 +499,8 @@ width: 200px;
   width: 24px;
   height: 24px;
   border-radius: 100%;
-  background: #c52d2f;
-  border: 1px solid #c52d2f;
+  background:#3DD1C5;
+  border: 1px solid #3DD1C5;
   left: -3px;
   top: -3px;
 }
@@ -568,7 +568,7 @@ width: 200px;
   line-height: 110px;
   text-align:center;
   background: #ffffff;
-  color: #c52d2f;
+  color: #3DD1C5;
   border: 3px solid #ffffff;
   box-shadow: inset 0 0 0 5px #f2f2f2;
   -webkit-box-shadow: inset 0 0 0 5px #f2f2f2;
@@ -581,11 +581,11 @@ width: 200px;
 }
 
 .feature-wrap i:hover {
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
-  box-shadow: inset 0 0 0 5px #c52d2f;
-  -webkit-box-shadow: inset 0 0 0 5px #c52d2f;
-  border: 3px solid #c52d2f;
+  box-shadow: inset 0 0 0 5px #3DD1C5;
+  -webkit-box-shadow: inset 0 0 0 5px #3DD1C5;
+  border: 3px solid #3DD1C5;
 }
 
 #recent-works .col-xs-12.col-sm-4.col-md-3{
@@ -630,7 +630,7 @@ width: 200px;
   height: 100%;
   opacity: 0;
   border-radius: 0;
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
   vertical-align: middle;
   -webkit-transition: opacity 500ms;
@@ -842,12 +842,12 @@ a.accordion-toggle  i{
 }
 
 .panel-heading.active a.accordion-toggle i{
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
 }
 
 .panel-heading.active a.accordion-toggle.collapsed i{
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
 }
 
@@ -1577,8 +1577,8 @@ ul.social_icons li  a i{
 .portfolio-filter > li a:hover,
 .portfolio-filter > li a.active{
   color:#fff;
-  background: #c52d2f;
-  border: 1px solid #c52d2f;
+  background:#3DD1C5;
+  border: 1px solid #3DD1C5;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
@@ -2006,12 +2006,12 @@ textarea#message{
 }
 
 .blog_category li a:hover{
-  background:#c52d2f;
+  background:#3DD1C5;
   color: #fff;
 }
 
  .badge:before {
-  border-color: transparent transparent transparent #c52d2f;
+  border-color: transparent transparent transparent #3DD1C5f;
   border-style: solid;
   border-width: 10px;
   bottom: -8px;
@@ -2023,7 +2023,7 @@ textarea#message{
 }
 
 .badge {
-  background-color: #c52d2f;
+  background-color:#3DD1C5;
   border-radius: 5px;
   color: #fff;
   padding: 8px;
@@ -2167,7 +2167,7 @@ ul.faq li > div h3 {
 }
 
 #publish_date {
-  background: #c52d2f;
+  background:#3DD1C5;
   border-bottom: 5px solid #4e4e4e;
   color: #fff;
   padding: 5px 0;
@@ -2200,8 +2200,8 @@ ul.pagination > li > a i{
 
 ul.pagination > li.active > a, 
 ul.pagination > li:hover > a {
-  background-color: #c52d2f !important;
-  border-color: #c52d2f !important;
+  background-color: #3DD1C5!important;
+  border-color: #3DD1C5 !important;
   color: #fff;
 }
 
@@ -2242,7 +2242,7 @@ ul.sidebar-gallery {
 }
 
 .tag-cloud li a:hover{
-  background:#c52d2f;
+  background:##3DD1C5;
   color: #fff;  
 }
 
@@ -2381,7 +2381,7 @@ ul.sidebar-gallery {
 }
 
 .post_reply_comments h1 a:hover{
-  color:#c52d2f;
+  color:#3DD1C5;
 }
 
 .post_reply_comments h4{
@@ -2397,14 +2397,14 @@ ul.sidebar-gallery {
   bottom: 15px;
   position: absolute;
   right: 30px;
-  background: #c52d2f;
+  background: #3DD1C5;
   color: #fff;
   border-radius: 5px;
   padding: 8px 20px;
 }
 
 .post_reply_comments a:before {
-  border-color: #c52d2f transparent transparent;
+  border-color: #3DD1C5 transparent transparent;
   border-style: solid;
   border-width: 16px;
   bottom: -11px;
@@ -2468,7 +2468,7 @@ shortcodes page css
 ************************/
 #bottom {
   background: #f5f5f5;
-  border-bottom: 5px solid #c52d2f;
+  border-bottom: 5px solid #3DD1C5;
   font-size: 14px;
 }
 
@@ -2496,7 +2496,7 @@ shortcodes page css
 }
 
 #bottom ul li a:hover {
-  color: #c52d2f;
+  color: #3DD1C5;
 }
 
 #bottom .widget {
@@ -2515,7 +2515,7 @@ shortcodes page css
 }
 
 #footer a:hover {
-  color: #c52d2f;
+  color: #3DD1C5;
 }
 
 #footer ul {
