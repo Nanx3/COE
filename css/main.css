@@ -184,8 +184,7 @@ body > section {
 
 .top-bar {
   padding: 10px 0;
-  background: #191919;
-  border-bottom: 1px solid #222;
+  background: #42B3E4;
   line-height: 28px;
 }
 
@@ -265,9 +264,14 @@ input.search-form:hover {
 .navbar {
   border-radius: 0;
   margin-bottom: 0;
-  background: #151515;
+  background: white;
   padding: 15px 0;
-  padding-bottom: 0;
+  padding-bottom: 30;
+}
+
+.logo{
+height: 102px;
+width: 200px;
 }
 
  .navbar-nav{
